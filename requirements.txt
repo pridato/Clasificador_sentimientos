@@ -1,5 +1,8 @@
-transformers
-spacy
+transformers~=4.51.1
+spacy~=3.8.5
 pandas
 torch
 scikit-learn
+requests~=2.32.3
+PyAudio~=0.2.14
+openai-whisper~=20240930
